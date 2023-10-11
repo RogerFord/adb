@@ -1,11 +1,10 @@
 {
+    "workshoptitle": "Introduction to ADB Dedicated for Developers and Database Users",
+    "help": "livelabs-help-db_us@oracle.com",
     "tutorials": [
-        {
-            "title": "Introduction to ADB Dedicated for Developers and Database Users",
-            "description": "Introduction to ADB Dedicated for Developers and Database Users",
-            "partnumber": "Ennnnn_01",
-            "publisheddate": "03/10/2020",
-            "contentid": "12nnnn",
+                {
+            "title": "Introduction",
+            "description": "Introduction of the workshop.",
             "filename": "./intro.md"
         },
         {
@@ -119,6 +118,22 @@
             "publisheddate": "06/16/2020",
             "contentid": "12nnnn",
             "filename": "./../../adb-automatic-indexing/adb-automatic-indexing.md"
+        },
+        {
+            "title": "Lab 15: API Gateway with Autonomous Database Dedicated",
+            "description": "API Gateway with Autonomous Database Dedicated",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "06/27/2023",
+            "contentid": "12nnnn",
+            "filename": "./../../adb-oci-api-gateway/adb-apex-apigateway.md"
+        },
+        {
+            "title": "Lab 16: Database In-Memory on Autonomous Database Dedicated",
+            "description": "Database In-Memory on Autonomous Database Dedicated",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "22/08/2023",
+            "contentid": "12nnnn",
+            "filename": "./../../adb-in-memory/adb-inmemory.md"
         },
         {
             "title": "Appendix",
